@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **B.Tech CSE** (2nd Year) student at **International Institute of Information Technology, Naya Raipur**
+- 🎓 **B.Tech CSE** (2nd Year) student at **Indian Institute of Information Technology, Naya Raipur**
 - 💼 Currently interning at **AFTR Labs** — building real-world apps in a professional environment
 - 📱 **App Developer** — turning ideas into functional, user-friendly applications
 - 🛠️ Building **browser extensions** and **AI-powered tools**
@@ -50,11 +50,20 @@
 
 ## 📌 Pinned Projects
 
-### 🔌 [Frictionlessextension](https://github.com/GAURAV-1313/Frictionlessextension)
-> A browser extension that removes UX friction points and improves everyday browsing experience.
-- 💡 Built with: `JavaScript`
-- 🎯 Focus: Browser Extension Development, UX Improvement
-- ⭐ 1 star
+### 🧠 [Friction](https://github.com/GAURAV-1313/Frictionlessextension) — *AI-Powered Learning Pattern Tracker*
+> A **Chrome extension + web app** that captures your moments of confusion while studying — instantly, with zero interruption — then uses **Gemini AI** to silently batch-analyze patterns and surface insights you didn't know existed.
+
+**How it works:**
+- ⚡ Press a keyboard shortcut when confused → moment saved instantly, no thinking required
+- 🤐 Zero AI at capture time — raw, honest data only
+- 🔁 Later, a batch LLM processes all your moments together and detects recurring patterns
+- 💡 Surfaces insights like *"You keep confusing array boundary logic"* across sessions
+- ✅ Review AI findings on a web dashboard — confirm, defer, or reject
+- 📊 Reports show confusion trends, learning gaps, and growth over time
+
+**Tech:** `JavaScript` · `HTML` · `CSS` · `Express.js` · `React` · `MySQL` · `Gemini AI` · `Google OAuth`
+
+⭐ 1 star
 
 ---
 

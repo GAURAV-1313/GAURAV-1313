@@ -3,14 +3,14 @@
 <h3 align="center">🚀 CS Undergrad @ IIIT Naya Raipur | App Developer | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=First+Year+CS+Student+%40+IIIT-NR;App+Developer;Intern+%40+AFTR+Labs;JavaScript+%7C+TypeScript+%7C+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Second+Year+CS+Student+%40+IIIT-NR;App+Developer;Intern+%40+AFTR+Labs;JavaScript+%7C+TypeScript+%7C+Python" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 **B.Tech CSE** student at **Indian Institute of Information Technology, Naya Raipur**
+- 🎓 **B.Tech CSE** (2nd Year) student at **Indian Institute of Information Technology, Naya Raipur**
 - 💼 Currently interning at **AFTR Labs** — building real-world apps in a professional environment
 - 📱 **App Developer** — turning ideas into functional, user-friendly applications
 - 🛠️ Building **browser extensions** and **AI-powered tools**
@@ -25,7 +25,7 @@
 > Currently working as an intern at AFTR Labs, contributing to app development in a real professional setting.
 - 🔧 Working on private production projects
 - 💡 Gaining hands-on experience in building and shipping apps
-- 🚀 Collaborating with a team on real product development
+- 🚀 Collaborating with a team on real product development as a 2nd year student
 
 ---
 

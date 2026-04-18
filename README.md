@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **B.Tech CSE** (2nd Year) student at **Indian Institute of Information Technology, Naya Raipur**
+- 🎓 **B.Tech CSE** (2nd Year) student at **International Institute of Information Technology, Naya Raipur**
 - 💼 Currently interning at **AFTR Labs** — building real-world apps in a professional environment
 - 📱 **App Developer** — turning ideas into functional, user-friendly applications
 - 🛠️ Building **browser extensions** and **AI-powered tools**

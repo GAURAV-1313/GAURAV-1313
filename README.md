@@ -13,8 +13,8 @@
 - 🎓 **B.Tech CSE** (2nd Year) student at **Indian Institute of Information Technology, Naya Raipur**
 - 💼 Currently interning at **AFTR Labs** — building real-world apps in a professional environment
 - 📱 **App Developer** — turning ideas into functional, user-friendly applications
-- 🛠️ Building **browser extensions** and **AI-powered tools**
-- 🌱 Currently sharpening skills in **DSA**, **Web Dev**, and **AI/ML**
+- 🛠️ Building **browser extensions**, **AI-powered tools**, and **developer skills**
+- 🌱 Currently sharpening skills in **DSA**, **Web Dev**, **AI/ML**, and **Knowledge Graphs**
 - ⚡ Fun fact: I debug code faster than I debug my sleep schedule
 
 ---
@@ -50,16 +50,30 @@
 
 ## 📌 Pinned Projects
 
-### 🧠 [Friction](https://github.com/GAURAV-1313/Frictionlessextension) — *AI-Powered Learning Pattern Tracker*
-> A **Chrome extension + web app** that captures your moments of confusion while studying — instantly, with zero interruption — then uses **Gemini AI** to silently batch-analyze patterns and surface insights you didn't know existed.
+### 🧠 [CodeCall](https://github.com/GAURAV-1313/codecall) — *AI Coding Assistant Skill*
+> An **agent skill** that gets you up to speed on any codebase. It dives deep into the implementation, quizzes your understanding, and ensures you're on consent before proceeding. Built for developers who want to truly understand the code they're working with.
 
 **How it works:**
-- ⚡ Press a keyboard shortcut when confused → moment saved instantly, no thinking required
-- 🤐 Zero AI at capture time — raw, honest data only
-- 🔁 Later, a batch LLM processes all your moments together and detects recurring patterns
-- 💡 Surfaces insights like *"You keep confusing array boundary logic"* across sessions
-- ✅ Review AI findings on a web dashboard — confirm, defer, or reject
-- 📊 Reports show confusion trends, learning gaps, and growth over time
+- 🔍 Deep code analysis — understands the full implementation
+- 📝 Concept quizzes to test your understanding
+- ✅ Consent-based approach — you're always in control
+- 🧠 Helps internalize patterns and architecture decisions
+
+**Tech:** `JavaScript` · `AI/ML` · `Developer Tools`
+
+⭐ 14 stars
+
+---
+
+### 🗺️ [Graphify](https://github.com/GAURAV-1313/graphify) — *Knowledge Graph Engine*
+> Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a **queryable knowledge graph**. App code + database schema + infrastructure in one unified graph.
+
+**Tech:** `AI/ML` · `Knowledge Graphs` · `Developer Tools`
+
+---
+
+### 🧠 [Friction](https://github.com/GAURAV-1313/Frictionlessextension) — *AI-Powered Learning Pattern Tracker*
+> A **Chrome extension + web app** that captures your moments of confusion while studying — instantly, with zero interruption — then uses **Gemini AI** to silently batch-analyze patterns and surface insights you didn't know existed.
 
 **Tech:** `JavaScript` · `HTML` · `CSS` · `Express.js` · `React` · `MySQL` · `Gemini AI` · `Google OAuth`
 
@@ -71,8 +85,13 @@
 
 | Project | Description | Language |
 |---|---|---|
+| [phodex](https://github.com/GAURAV-1313/phodex) | Project phodex | - |
+| [csc](https://github.com/GAURAV-1313/csc) | Project csc | - |
+| [feedback_app](https://github.com/GAURAV-1313/feedback_app) | Feedback application | - |
 | [treasure-hunt](https://github.com/GAURAV-1313/treasure-hunt) | Interactive treasure hunt game/app | TypeScript |
 | [labagentgaurav](https://github.com/GAURAV-1313/labagentgaurav) | AI-powered lab agent | Python |
+| [quantum-architecture-simulator](https://github.com/GAURAV-1313/quantum-architecture-simulator) | Quantum architecture simulator | - |
+| [Portfolio-GAURAV1313](https://github.com/GAURAV-1313/Portfolio-GAURAV1313) | Personal portfolio site | - |
 
 ---
 

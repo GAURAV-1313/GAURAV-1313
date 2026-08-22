@@ -65,10 +65,7 @@
 
 ---
 
-### 🗺️ [Graphify](https://github.com/GAURAV-1313/graphify) — *Knowledge Graph Engine*
-> Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a **queryable knowledge graph**. App code + database schema + infrastructure in one unified graph.
-
-**Tech:** `AI/ML` · `Knowledge Graphs` · `Developer Tools`
+### 📦 [Phodex](https://github.com/GAURAV-1313/phodex) — *Project Phodex*
 
 ---
 

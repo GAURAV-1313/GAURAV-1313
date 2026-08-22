@@ -95,20 +95,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GAURAV-1313&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAURAV-1313&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=GAURAV-1313&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GAURAV-1313&theme=tokyonight" />
+</p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GAURAV-1313&theme=tokyonight&no-frame=true&column=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GAURAV-1313&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GAURAV-1313&theme=tokyonight" />
 </p>
 
 ---

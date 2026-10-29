@@ -22,7 +22,7 @@ I build AI products end to end and ship them: the agent, the backend it runs on,
 | | track | liner note | plays |
 |:--|:--|:--|:--|
 | `A1` | [**Phodex**](https://github.com/GAURAV-1313/phodex) | Send coding tasks to Claude Code / Codex from your phone. Nothing merges until you tap approve. Flutter + FastAPI, self-hosted, MIT. | ★ 1 |
-| `A2` | [**codecall**](https://github.com/GAURAV-1313/codecall) | Claude Code / Codex plugin that quizzes you on the code your AI just wrote, so you actually own it. | 2,060 installs/yr · ★ 14 |
+| `A2` | [**codecall**](https://github.com/GAURAV-1313/codecall) | Claude Code / Codex plugin that quizzes you on the code your AI just wrote, so you actually own it. | 2,064 installs/yr · ★ 14 |
 | `A3` | [**Recall**](https://recall.nofriction.space) | LeetCode tutor whose hints cite problems *you* already solved. | [Chrome Web Store](https://chromewebstore.google.com/detail/recall-for-leetcode/ehflchcddgcnmopbehglnnckjonebfmi) |
 | `A4` | [**writeupsc**](https://www.writeupsc.app) | Grades handwritten UPSC answers against 4,552 real topper answers. RAG + handwriting OCR. | 1,000+ sign-ups |
 | `A5` | [**Friction**](https://nofriction.space) | Chrome extension that logs a moment of confusion without breaking your flow; Gemini finds the pattern later. | live |

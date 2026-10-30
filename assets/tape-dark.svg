@@ -72,7 +72,7 @@
   <path d="M0 6H640" stroke="#D1A544" stroke-width="2" stroke-dasharray="6 5" opacity=".8"/>
   <text x="20" y="34" class="mono" font-size="14" fill="#DCD4C3"><tspan fill="#D1A544">▶ NOW PLAYING</tspan>  codecall · “Release v1.5.1: clearer npm listing”</text>
   <rect class="wipe" x="160" y="18" width="470" height="22" fill="#23211D"/>
-  <text x="20" y="56" class="mono" font-size="11" fill="#9C9480" letter-spacing=".5">2026 TAPE 83% RECORDED · 149 COMMITS · CODECALL 2,064 INSTALLS/YR</text>
+  <text x="20" y="56" class="mono" font-size="11" fill="#9C9480" letter-spacing=".5">2026 TAPE 83% RECORDED · 154 COMMITS · CODECALL 2,066 INSTALLS/YR</text>
   <rect class="wipe2" x="16" y="44" width="620" height="18" fill="#23211D"/>
 </g>
 </svg>
